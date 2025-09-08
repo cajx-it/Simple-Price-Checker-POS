@@ -1,17 +1,16 @@
-**🏪 Simple Price Checker POS
-**
+🏪 Simple Price Checker POS
 
 A lightweight Price Checker System inspired by kiosks in supermarkets.  
 Customers can scan a product barcode and instantly see its name, price, and image.  
 Includes an Admin Panel for managing products using a MySQL database.  
 
-![Price Checker UI](assets/screenshots/landing.png)
+<img src="assets/screenshots/landing.png" alt="Price Checker UI" width="400"/>
 
 ---
 
-**✨ Features**
+✨ Features
 
-✅ Barcode Scanner Input – plug in a barcode scanner and scan products directly
+✅ Barcode Scanner Input – plug in a barcode scanner and scan products directly  
 🖼️ Product Display – shows name, price, and image instantly  
 🛠️ Admin Panel – add, update, and delete products  
 🔗 Smart Sync – renaming a product also renames its image file automatically  
@@ -19,25 +18,24 @@ Includes an Admin Panel for managing products using a MySQL database.
 
 ---
 
-**🛠️ Tech Stack**
+🛠️ Tech Stack
 
 🌐 Frontend: HTML, CSS, JavaScript  
 ⚙️ Backend: PHP  
 🗄️ Database: MySQL  
 
-
+---
 
 📸 Screenshots
 
 🏷️ Price Checker  
-![Admin Panel UI](assets/screenshots/landing.png)
+<img src="assets/screenshots/landing.png" alt="Price Checker UI" width="400"/>
 
 🔐 Admin Panel  
-![Admin Panel UI](assets/screenshots/login.png)
+<img src="assets/screenshots/login.png" alt="Admin Panel Login" width="400"/>
 
-Dashboard Panel
-![Admin Panel UI](assets/screenshots/dashboard.png)
-
+📊 Dashboard Panel  
+<img src="assets/screenshots/dashboard.png" alt="Dashboard Panel" width="400"/>
 
 ---
 
@@ -71,8 +69,6 @@ Dashboard Panel
 - Images auto-update when product names change  
 
 ---
-
-
 
 🙌 Acknowledgments
 
