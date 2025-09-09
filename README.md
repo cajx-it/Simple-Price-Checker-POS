@@ -46,7 +46,7 @@ Includes an Admin Panel for managing products using a MySQL database.
 
 2. Set up the database  
    - Import the SQL file into your MySQL server  
-   - Update database settings in config.php  
+   - Update database settings in db.php  
 
 3. Deploy the project  
    - Copy the folder to your server root (htdocs for XAMPP, www for WAMP)  
