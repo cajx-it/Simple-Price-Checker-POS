@@ -4,7 +4,10 @@ A lightweight Price Checker System inspired by kiosks in supermarkets.
 Customers can scan a product barcode and instantly see its name, price, and image.  
 Includes an Admin Panel for managing products using a MySQL database.  
 
-<img src="assets/screenshots/landing.png" alt="Price Checker UI" width="600"/>
+<p align="center">
+   <img src="assets/screenshots/landing.png" alt="Price Checker UI" width="600"/>
+</p>
+
 
 ---
 
@@ -29,13 +32,19 @@ Includes an Admin Panel for managing products using a MySQL database.
 ## Screenshots
 
 🏷️ Price Checker  
-<img src="assets/screenshots/landing.png" alt="Price Checker UI" width="600"/>
+<p align="center">
+   <img src="assets/screenshots/landing.png" alt="Price Checker UI" width="600"/>
+</p>
 
 🔐 Admin Panel  
-<img src="assets/screenshots/login.png" alt="Admin Panel Login" width="600"/>
+<p align="center">
+   <img src="assets/screenshots/login.png" alt="Admin Panel" width="600"/>
+</p>
 
 📊 Dashboard Panel  
-<img src="assets/screenshots/dashboard.png" alt="Dashboard Panel" width="600"/>
+<p align="center">
+   <img src="assets/screenshots/dashboard.png" alt="Dashboard Panel" width="600"/>
+</p>
 
 ---
 
