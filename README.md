@@ -1,4 +1,4 @@
-🏪 Simple Price Checker POS
+#🏪 Simple Price Checker POS
 
 A lightweight Price Checker System inspired by kiosks in supermarkets.  
 Customers can scan a product barcode and instantly see its name, price, and image.  
@@ -18,7 +18,7 @@ Includes an Admin Panel for managing products using a MySQL database.
 
 ---
 
-🛠️ Tech Stack
+#🛠️ Tech Stack
 
 🌐 Frontend: HTML, CSS, JavaScript  
 ⚙️ Backend: PHP  
@@ -26,7 +26,7 @@ Includes an Admin Panel for managing products using a MySQL database.
 
 ---
 
-📸 Screenshots
+#📸 Screenshots
 
 🏷️ Price Checker  
 <img src="assets/screenshots/landing.png" alt="Price Checker UI" width="600"/>
@@ -39,7 +39,7 @@ Includes an Admin Panel for managing products using a MySQL database.
 
 ---
 
-🚀 Installation Guide
+#🚀 Installation Guide
 
 1. Clone the repository  
    git clone https://github.com/cajx-it/Simple-Price-Checker-POS.git  
